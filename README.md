@@ -1,3 +1,3 @@
 # plantshop
-all plants are here
+All plants are here
 This is a simple trail.
